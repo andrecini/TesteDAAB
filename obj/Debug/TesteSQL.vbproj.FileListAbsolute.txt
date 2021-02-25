@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\TesteSQL\obj\Debug\TesteSQL.vbprojAssemblyReference.cache
+C:\Users\admin\source\repos\TesteSQL\obj\Debug\TesteSQL.Form1.resources
+C:\Users\admin\source\repos\TesteSQL\obj\Debug\TesteSQL.Resources.resources
+C:\Users\admin\source\repos\TesteSQL\obj\Debug\TesteSQL.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\TesteSQL\obj\Debug\TesteSQL.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TesteSQL\bin\Debug\TesteSQL.exe.config
+C:\Users\admin\source\repos\TesteSQL\bin\Debug\TesteSQL.exe
+C:\Users\admin\source\repos\TesteSQL\bin\Debug\TesteSQL.pdb
+C:\Users\admin\source\repos\TesteSQL\bin\Debug\TesteSQL.xml
+C:\Users\admin\source\repos\TesteSQL\obj\Debug\TesteSQL.exe
+C:\Users\admin\source\repos\TesteSQL\obj\Debug\TesteSQL.xml
+C:\Users\admin\source\repos\TesteSQL\obj\Debug\TesteSQL.pdb
+C:\Users\admin\source\repos\TesteSQL\bin\Debug\ApplicationBlocks.Data.dll
+C:\Users\admin\source\repos\TesteSQL\obj\Debug\TesteSQL.vbproj.CopyComplete
